@@ -1,0 +1,10 @@
+[
+  {
+    "id": "spider-man",
+    "title": "Spider-Man",
+    "description": "Amazing depth wallpapers inspired by the iconic web-slinger.",
+    "preview": "assets/spiderMan_preview.jpeg",
+    "repo_url": "https://raw.githubusercontent.com/asar1/Depth-wallpaper-spiderman/main/",
+    "wallpaperCount": 8
+  }
+]
