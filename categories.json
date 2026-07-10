@@ -7,4 +7,20 @@
     "repo_url": "https://raw.githubusercontent.com/asar1/Depth-wallpaper-spiderman/main/",
     "wallpaperCount": 8
   }
+  {
+    "id": "cars",
+    "title": "Cars",
+    "description": "Amazing depth wallpapers of cars",
+    "preview": "assets/car_preview.jpeg",
+    "repo_url": "",
+    "wallpaperCount": 0
+  }
+  {
+    "id": "sea-view",
+    "title": "sea-view",
+    "description": "Amazing depth wallpapers of sea.",
+    "preview": "assets/sea_preview.jpeg",
+    "repo_url": "",
+    "wallpaperCount": 0
+  }
 ]
